@@ -8,6 +8,9 @@
 
 A fake website created for a client that would like two different style choices for a Private Island Resort website.
 
+Link to site:
+https://emdok.github.io/private-island-resort/
+
 ## Setup/Installation Requirements
 
 Open the Index.html page within your browser to check out the site.
